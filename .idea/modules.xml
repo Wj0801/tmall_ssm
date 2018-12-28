@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/tmall_springboot/tmall_springboot.iml" filepath="D:/tmall_springboot/tmall_springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmall_ssm.iml" filepath="$PROJECT_DIR$/tmall_ssm.iml" />
+    </modules>
+  </component>
+</project>
